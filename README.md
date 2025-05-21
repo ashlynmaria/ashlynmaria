@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Cognizant as a Generative AI Extern!**
 
-- 🌱 I’m currently learning **LLMs, Data Engineering, Cloud Computing :)**
+- 🌱 I’m currently learning about **LLMs, Data Engineering, Cloud Computing :)**
 
 - 👨‍💻 All of my projects are available at [https://ashlyn-benoy.vercel.app/](https://ashlyn-benoy.vercel.app/)!
 
