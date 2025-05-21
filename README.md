@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Reinforcement Learning, Artifical Life Simulations, and Explainability in AI!**
 
-- 📫 Feel free to reach me at **ashlynmbenoy@gmail.com**.
+- 📫 Feel free to reach out to me at **ashlynmbenoy@gmail.com**.
 
 - ⚡ Fun fact: **I won a potato running race in 2nd grade and I was quite proud of it.**
 
