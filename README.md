@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashlyn Benoy</h1>
-<h3 align="center">I turning data into insights and believe in making tech accessible to everyone.</h3>
+<h3 align="center">I believe in turning complex problems into impactful software and driving positive change through technology </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashlynmaria" alt="ashlynmaria" /></a> </p>
 
