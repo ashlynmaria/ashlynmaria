@@ -13,8 +13,6 @@
 
 - 📫 Feel free to reach out to me at **ashlynmbenoy@gmail.com**.
 
-- ⚡ Fun fact: **I won a potato running race in 2nd grade and I was quite proud of it.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashlyn-benoy-891492275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashlyn-benoy-891492275" height="30" width="40" /></a>
